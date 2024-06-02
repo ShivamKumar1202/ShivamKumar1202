@@ -13,7 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/https://leetcode.com/shivam1202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivam1202/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/shivam1202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivam1202/" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://linkedin.com/in/shivam1202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam1202" height="30" width="40" /></a> &nbsp;&nbsp;
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeZqW1Q0VwqdJGTaWXFx5WgOK3qH3ll35eBZCL3RVvbyLLbhA/viewform?pli=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="google form" height="30" width="40" /></a> &nbsp;&nbsp;
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
